@@ -1,3 +1,17 @@
+# Microservice Project Learn
+
+## 一、前端
+
+基于tensquare项目的CoderHub
+
+- 前台使用NUXT开发：[tensquare-frontend](./tensquare-frontend)
+- 管理后台使用Vue-cli脚手架开发：[tensquare-management](./tensquare-management)
+- CoderHub文档见document：[coderhub-documents](./coderhub-documents)
+
+##　二、后端
+
+采用SpringCloud微服务开发，使用docker以及Jenkins自动化部署。开发记录如下：
+
 >踩坑记录见note!!!
 
 2020.8.20
